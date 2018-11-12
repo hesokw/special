@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "test",
+"dataUrl": "unity web vr publish.data.unityweb",
+"wasmCodeUrl": "unity web vr publish.wasm.code.unityweb",
+"wasmFrameworkUrl": "unity web vr publish.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
